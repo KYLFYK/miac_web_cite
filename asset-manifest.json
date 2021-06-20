@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/miac_web_cite/static/css/main.de044cfe.chunk.css",
-    "main.js": "/miac_web_cite/static/js/main.56385d89.chunk.js",
-    "main.js.map": "/miac_web_cite/static/js/main.56385d89.chunk.js.map",
+    "main.js": "/miac_web_cite/static/js/main.b4f67889.chunk.js",
+    "main.js.map": "/miac_web_cite/static/js/main.b4f67889.chunk.js.map",
     "runtime-main.js": "/miac_web_cite/static/js/runtime-main.c35562b1.js",
     "runtime-main.js.map": "/miac_web_cite/static/js/runtime-main.c35562b1.js.map",
     "static/css/2.b4e56faa.chunk.css": "/miac_web_cite/static/css/2.b4e56faa.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.b4e56faa.chunk.css",
     "static/js/2.dba3f87c.chunk.js",
     "static/css/main.de044cfe.chunk.css",
-    "static/js/main.56385d89.chunk.js"
+    "static/js/main.b4f67889.chunk.js"
   ]
 }
